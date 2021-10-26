@@ -1,3 +1,3 @@
-# DTE-2604-1 21V Systemutvikling
+Systemutvikling
 
 AnyOne's TimeRegistreringsSystem
